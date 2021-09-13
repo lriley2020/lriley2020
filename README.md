@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm just a schoolkid who enjoys coding
+
+### Some of my projects:
+
+[Drone Site](https://dronesite.hopto.org)
+
+[Weather Dashboard](http://dronesite.hopto.org:8080/dashboard)
+
 <!--
 **lriley2020/lriley2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
