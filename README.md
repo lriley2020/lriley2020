@@ -6,7 +6,7 @@ I'm just a schoolkid who enjoys coding
 
 [Drone Site](https://dronesite.hopto.org)
 
-[Weather Dashboard](http://dronesite.hopto.org:8080/dashboard)
+[Weather Dashboard](https://piweather.hopto.org/dashboard)
 
 <!--
 **lriley2020/lriley2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
