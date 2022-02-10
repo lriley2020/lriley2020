@@ -6,7 +6,7 @@ I'm just a schoolkid who enjoys coding
 
 [Drone Site](https://dronesite.liamriley.me)
 
-[Weather Dashboard](https://piweather.liamriley.me/dashboard)
+[Weather Dashboard](https://weather.liamriley.me/dashboard)
 
 <!--
 **lriley2020/lriley2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
