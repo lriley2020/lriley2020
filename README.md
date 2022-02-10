@@ -4,9 +4,9 @@ I'm just a schoolkid who enjoys coding
 
 ### Some of my projects:
 
-[Drone Site](https://dronesite.hopto.org)
+[Drone Site](https://dronesite.liamriley.me)
 
-[Weather Dashboard](https://piweather.hopto.org/dashboard)
+[Weather Dashboard](https://piweather.liamriley.me/dashboard)
 
 <!--
 **lriley2020/lriley2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
